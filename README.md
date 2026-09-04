@@ -548,31 +548,31 @@ The dashboard includes:
 
 ## 📊 Marketing Executive Overview
 
-![Marketing Executive Overview](YOUR_IMAGE_LINK_HERE)
+![Marketing_Executive_Overview](YOUR_IMAGE_LINK_HERE)
 
 ---
 
 ## 👥 Customer & Audience Analysis
 
-![Customer & Audience Analysis](YOUR_IMAGE_LINK_HERE)
+![Customer_Audience_Analysis](YOUR_IMAGE_LINK_HERE)
 
 ---
 
 ## 📢 Campaign & Channel Performance
 
-![Campaign & Channel Performance](YOUR_IMAGE_LINK_HERE)
+![Campaign_Channel_Performance](YOUR_IMAGE_LINK_HERE)
 
 ---
 
 ## 🔎 Campaign Detail
 
-![Campaign Detail](YOUR_IMAGE_LINK_HERE)
+![Campaign_Detail](YOUR_IMAGE_LINK_HERE)
 
 ---
 
 ## 💬 Campaign Tooltip
 
-![Campaign Tooltip](YOUR_IMAGE_LINK_HERE)
+![Campaign_Tooltip](YOUR_IMAGE_LINK_HERE)
 
 ---
 
