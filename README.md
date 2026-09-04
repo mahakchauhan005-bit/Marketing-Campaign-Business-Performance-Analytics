@@ -544,36 +544,27 @@ The dashboard includes:
 
 ---
 
-# 🖼️ Power BI Dashboard Preview
+## 📊 Power BI Dashboard
 
-## 📊 Marketing Executive Overview
+### 1. Marketing Executive Overview
 
-![Marketing_Executive_Overview](YOUR_IMAGE_LINK_HERE)
+![Marketing Executive Overview](images/Marketing_Executive_Overview.png)
 
----
+### 2. Customer & Audience Analysis
 
-## 👥 Customer & Audience Analysis
+![Customer & Audience Analysis](images/Customer_Audience_Analysis.png)
 
-![Customer_Audience_Analysis](YOUR_IMAGE_LINK_HERE)
+### 3. Campaign & Channel Performance
 
----
+![Campaign & Channel Performance](images/Campaign_Channel_Performance.png)
 
-## 📢 Campaign & Channel Performance
+### 4. Campaign Detail
 
-![Campaign_Channel_Performance](YOUR_IMAGE_LINK_HERE)
+![Campaign Detail](images/Campaign_Detail.png)
 
----
+### 5. Campaign Tooltip
 
-## 🔎 Campaign Detail
-
-![Campaign_Detail](YOUR_IMAGE_LINK_HERE)
-
----
-
-## 💬 Campaign Tooltip
-
-![Campaign_Tooltip](YOUR_IMAGE_LINK_HERE)
-
+![Campaign Tooltip](images/Campaign_Tooltip.png)
 ---
 
 # 💡 Key Business Insights
